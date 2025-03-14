@@ -26,8 +26,8 @@ header .logo {
     text-align: left;
 }
 header .search-bar {
-    width: 150%; /* Arama çubuğunu genişlettim */
-    margin: 0 auto; /* Ortalamak için */
+    width: 150%;  
+    margin: 0 auto;  
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
@@ -36,7 +36,7 @@ header .search-bar {
 }
 
 header .search-bar:focus {
-    border-color: #00adb5; /* Arama çubuğuna odaklanıldığında renk değişir */
+    border-color: #00adb5;  
 }
 
 .auth-buttons {
@@ -199,14 +199,13 @@ main {
     background-color: #e64a19;
 }
 .movie-card {
-    /*display: inline-block;*/
-    margin: 20px; /* Filmler arası boşluk artırıldı */
+    margin: 20px;  
     
     
 }
 .movie-card .movie-buttons button:hover {
     opacity: 0.9;
-    transform: scale(1.05); /* Hover efekti */
+    transform: scale(1.05);  
     
 }
 .movie-card .movie-buttons button {
@@ -214,27 +213,27 @@ main {
     font-size: 14px;
     color: #fff;
     border: none;
-    border-radius: 60px; /* Daha yuvarlak tasarım */
+    border-radius: 60px;  
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
 .movie-card .watched-btn {
-    background-color: #28a745; /* Yeşil renk */
+    background-color: #28a745;  
     border-radius: 30px;
 
 }
 
 .movie-card .watched-btn:hover {
-    background-color: #218838; /* Daha koyu yeşil */
+    background-color: #218838;  
 }
 
 .movie-card .to-watch-btn {
-    background-color: #007bff; /* Mavi renk */
+    background-color: #007bff;  
     border-radius: 30px;
 }
 
 .movie-card .to-watch-btn:hover {
-    background-color: #0056b3; /* Daha koyu mavi */
+    background-color: #0056b3;  
 }
 footer {
     background-color: #222831;

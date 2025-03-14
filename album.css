@@ -6,7 +6,7 @@ body {
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
-    height: 100vh; /* Sayfanın yüksekliğini %100 yapıyoruz */
+    height: 100vh;  
 }
 
 header {
@@ -29,11 +29,11 @@ header .search-container {
     flex: 2;
     display: flex;
     justify-content: center;
-    padding-right: 260px; /* Sağdan biraz boşluk ekledik */
+    padding-right: 260px;  
 }
 
 .search-bar {
-    width: 90%; /* Arama çubuğunu geniş yap */
+    width: 90%;  
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -89,7 +89,7 @@ nav ul li a:hover {
 }
 
 main {
-    flex: 1; /* Ana içeriğin esnek olmasını sağlar */
+    flex: 1;  
     padding: 20px;
     margin: 20px 0;
     background-color: #fff;
@@ -105,7 +105,7 @@ h1 {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 kolonda gösterilecek */
+    grid-template-columns: repeat(3, 1fr);  
     gap: 40px;
     margin-top: 20px;
     padding-bottom: 30px;
@@ -148,6 +148,6 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
-    margin-top: auto; /* Footer'ı en alt kısma yapıştırır */
-    width: 100%; /* Footer'ın genişliğini tam ekran yapar */
+    margin-top: auto;  
+    width: 100%;  
 }

@@ -1,7 +1,6 @@
-const apiKey = '38212142fbabe3881e01dcbb9527c88b'; // TMDb'den aldığınız API anahtarını buraya ekleyin
-const url = 'https://api.themoviedb.org/3/tv/top_rated'; // TMDb Top Rated TV Shows API URL
+const apiKey = '38212142fbabe3881e01dcbb9527c88b'; 
+const url = 'https://api.themoviedb.org/3/tv/top_rated'; 
 
-// API'den en çok oy alan dizileri çeken fonksiyon
 async function fetchTopRatedTVShows() {
     try {
         const response = await fetch(`${url}?api_key=${apiKey}&language=en-US&page=1`, {
@@ -20,10 +19,9 @@ async function fetchTopRatedTVShows() {
     }
 }
 
-// Ekranda en çok oy alan dizileri listelemek için bir fonksiyon
 function displayTopRatedTVShows(shows) {
     const directorGrid = document.getElementById('directorGrid');
-    directorGrid.innerHTML = ''; // Önceki içerikleri temizle
+    directorGrid.innerHTML = ''; 
 
     shows.forEach(show => {
         const showCard = document.createElement('div');
@@ -40,5 +38,4 @@ function displayTopRatedTVShows(shows) {
     });
 }
 
-// Sayfa yüklendiğinde en çok oy alan dizileri çek
 window.onload = fetchTopRatedTVShows;
