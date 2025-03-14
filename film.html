@@ -38,7 +38,6 @@
         <section class="section">
             <h3>Top Rated Movies</h3>
             <div class="films-slider" id="filmsSlider">
-                <!-- Movies will be dynamically inserted here -->
             </div>
         </section>
     </main>
@@ -54,7 +53,7 @@
     </div>
 
     <script>
-        const API_KEY = '38212142fbabe3881e01dcbb9527c88b'; // Replace with your API key
+        const API_KEY = '38212142fbabe3881e01dcbb9527c88b'; 
         const watchedMovies = [];
         const toWatchMovies = [];
 
@@ -62,7 +61,6 @@
             const filmsSlider = document.getElementById("filmsSlider");
             const searchBar = document.querySelector('.search-bar');
 
-            // Fetch top-rated movies
             const fetchTopRatedMovies = async () => {
                 const response = await fetch(`https://api.themoviedb.org/3/movie/top_rated?api_key=${API_KEY}&language=en-US&page=1`);
                 const data = await response.json();
@@ -74,9 +72,8 @@
             try {
                 topRatedMovies = await fetchTopRatedMovies();
 
-                // Function to display movies
                 const displayMovies = (movies) => {
-                    filmsSlider.innerHTML = '';  // Clear the slider before adding new ones
+                    filmsSlider.innerHTML = '';  
 
                     movies.forEach(movie => {
                         const movieCard = document.createElement('div');
@@ -92,10 +89,8 @@
                     });
                 };
 
-                // Initially display all movies
                 displayMovies(topRatedMovies);
 
-                // Event listeners for buttons
                 filmsSlider.addEventListener('click', (e) => {
                     if (e.target.classList.contains('watched-btn')) {
                         const title = e.target.getAttribute('data-title');
@@ -109,11 +104,10 @@
                     }
                 });
 
-                // Search filter for the search bar
                 searchBar.addEventListener('input', (event) => {
-                    const query = event.target.value.toLowerCase();  // Convert query to lowercase for case-insensitive search
-                    const filteredMovies = topRatedMovies.filter(movie => movie.title.toLowerCase().includes(query));  // Filter movies based on title
-                    displayMovies(filteredMovies);  // Display the filtered movies
+                    const query = event.target.value.toLowerCase();  
+                    const filteredMovies = topRatedMovies.filter(movie => movie.title.toLowerCase().includes(query));  
+                    displayMovies(filteredMovies);   
                 });
 
             } catch (error) {
@@ -121,7 +115,6 @@
             }
         });
 
-        // Chatbot functionality
         const chatbotInput = document.getElementById("chatbot-input");
         const chatbotMessages = document.getElementById("chatbot-messages");
 
