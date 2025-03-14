@@ -1,0 +1,40 @@
+# This file contains the different endpoints your bot can use.
+
+# REST API endpoint for receiving messages from the frontend (e.g., your web page).
+rest:
+  url: "http://localhost:5005"  # URL where Rasa's REST API is running
+  cors:
+    - "*"  # Allow all origins for CORS (can be more restrictive if needed)
+
+# Action server endpoint for handling custom actions (if used).
+# If you are using custom actions (e.g., calling external APIs), you need to specify the action server URL.
+action_endpoint:
+  url: "http://localhost:5055/webhook"  # URL where the action server is running
+
+# Tracker store to persist conversations. Default is in-memory, but you can configure other types like Redis or MongoDB.
+# If you're using a different tracker store (e.g., Redis or MongoDB), configure it here.
+tracker_store:
+  type: "memory"  # Use memory for simple in-memory conversation tracking (default)
+  
+# Uncomment and configure below if you're using a Redis tracker store
+# tracker_store:
+#   type: redis
+#   url: "localhost"
+#   port: 6379
+#   db: 0
+
+# Uncomment and configure below if you're using a MongoDB tracker store
+# tracker_store:
+#   type: mongod
+#   url: "mongodb://localhost:27017"
+#   db: "rasa"
+#   username: "your_username"
+#   password: "your_password"
+
+# Event broker for streaming conversation events (optional). If you want to stream events (e.g., to Kafka or RabbitMQ), configure it here.
+# Uncomment and configure below if you're using an event broker
+# event_broker:
+#   url: "localhost"
+#   username: "your_username"
+#   password: "your_password"
+#   queue: "your_queue"

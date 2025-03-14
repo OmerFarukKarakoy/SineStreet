@@ -1,0 +1,1006 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Toy Story",
+        "genre": ["Adventure", "Animation", "Children", "Comedy", "Fantasy"],
+        "release_year": 1995,
+        "rating": 8.3,
+        "director": "John Lasseter",
+        "actors": ["Tom Hanks", "Tim Allen"],
+        "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
+      },
+      {
+        "id": 2,
+        "title": "Jumanji",
+        "genre": ["Adventure", "Children", "Fantasy"],
+        "release_year": 1995,
+        "rating": 7.0,
+        "director": "Joe Johnston",
+        "actors": ["Robin Williams", "Kirsten Dunst"],
+        "plot": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game."
+      },
+      {
+        "id": 3,
+        "title": "Grumpier Old Men",
+        "genre": ["Comedy", "Romance"],
+        "release_year": 1995,
+        "rating": 6.7,
+        "director": "Howard Deutch",
+        "actors": ["Walter Matthau", "Jack Lemmon"],
+        "plot": "John and Max resolve to save their beloved bait shop from turning into an Italian restaurant, just as its new female owner catches Max's attention."
+      },
+      {
+        "id": 4,
+        "title": "Waiting to Exhale",
+        "genre": ["Comedy", "Drama", "Romance"],
+        "release_year": 1995,
+        "rating": 5.9,
+        "director": "Forest Whitaker",
+        "actors": ["Whitney Houston", "Angela Bassett"],
+        "plot": "Based on Terry McMillan's novel, this film follows four very different African-American women and their relationships with men."
+      },
+      {
+        "id": 5,
+        "title": "Father of the Bride Part II",
+        "genre": ["Comedy"],
+        "release_year": 1995,
+        "rating": 6.0,
+        "director": "Charles Shyer",
+        "actors": ["Steve Martin", "Diane Keaton"],
+        "plot": "In this sequel, George Banks must deal not only with the pregnancy of his daughter, but also with the unexpected pregnancy of his wife."
+      },
+      {
+        "id": 6,
+        "title": "Heat",
+        "genre": ["Action", "Crime", "Thriller"],
+        "release_year": 1995,
+        "rating": 8.2,
+        "director": "Michael Mann",
+        "actors": ["Al Pacino", "Robert De Niro"],
+        "plot": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist."
+      },
+      {
+        "id": 7,
+        "title": "Sabrina",
+        "genre": ["Comedy", "Romance"],
+        "release_year": 1995,
+        "rating": 6.3,
+        "director": "Sydney Pollack",
+        "actors": ["Harrison Ford", "Julia Ormond"],
+        "plot": "A remake of the 1954 classic, where a playboy becomes interested in the daughter of his family's chauffeur, while his more serious brother becomes involved in their company."
+      },
+      {
+        "id": 8,
+        "title": "Tom and Huck",
+        "genre": ["Adventure", "Children"],
+        "release_year": 1995,
+        "rating": 5.5,
+        "director": "Peter Hewitt",
+        "actors": ["Jonathan Taylor Thomas", "Brad Renfro"],
+        "plot": "Two best friends witness a murder and struggle to survive in the dangerous, adventure-filled world of the 19th century Mississippi."
+      },
+      {
+        "id": 9,
+        "title": "Sudden Death",
+        "genre": ["Action"],
+        "release_year": 1995,
+        "rating": 5.8,
+        "director": "Peter Hyams",
+        "actors": ["Jean-Claude Van Damme", "Powers Boothe"],
+        "plot": "A former fireman must save the U.S. Vice President when terrorists take over a hockey arena during a game."
+      },
+      {
+        "id": 10,
+        "title": "GoldenEye",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "release_year": 1995,
+        "rating": 7.2,
+        "director": "Martin Campbell",
+        "actors": ["Pierce Brosnan", "Sean Bean"],
+        "plot": "James Bond teams up with the lone survivor of a destroyed Russian research center to stop a nuclear warhead from falling into the wrong hands."
+      },
+      {
+        "id": 11,
+        "title": "The American President",
+        "genre": ["Comedy", "Drama", "Romance"],
+        "release_year": 1995,
+        "rating": 6.8,
+        "director": "Rob Reiner",
+        "actors": ["Michael Douglas", "Annette Bening"],
+        "plot": "A widowed U.S. President running for re-election and an environmental lobbyist fall in love, creating complications for his campaign."
+      },
+      {
+        "id": 12,
+        "title": "Dracula: Dead and Loving It",
+        "genre": ["Comedy", "Horror"],
+        "release_year": 1995,
+        "rating": 5.9,
+        "director": "Mel Brooks",
+        "actors": ["Leslie Nielsen", "Mel Brooks"],
+        "plot": "Mel Brooks's parody of the classic vampire story and its famous film versions."
+      },
+      {
+        "id": 13,
+        "title": "Balto",
+        "genre": ["Adventure", "Animation", "Children"],
+        "release_year": 1995,
+        "rating": 7.1,
+        "director": "Simon Wells",
+        "actors": ["Kevin Bacon", "Bob Hoskins"],
+        "plot": "An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska."
+      },
+      {
+        "id": 14,
+        "title": "Nixon",
+        "genre": ["Drama"],
+        "release_year": 1995,
+        "rating": 7.1,
+        "director": "Oliver Stone",
+        "actors": ["Anthony Hopkins", "Joan Allen", "Powers Boothe", "Ed Harris"],
+        "plot": "A biographical story of former U.S. President Richard Milhous Nixon, from his days as a young boy to his eventual Presidency, which ended in shame."
+      },
+      {
+        "id": 15,
+        "title": "Cutthroat Island",
+        "genre": ["Action", "Adventure", "Romance"],
+        "release_year": 1995,
+        "rating": 5.6,
+        "director": "Renny Harlin",
+        "actors": ["Geena Davis", "Matthew Modine", "Frank Langella", "Maury Chaykin"],
+        "plot": "A female pirate and her companion race against their rivals to find a hidden island that contains a fabulous treasure."
+      },
+      {
+        "id": 16,
+        "title": "Casino",
+        "genre": ["Crime", "Drama"],
+        "release_year": 1995,
+        "rating": 8.2,
+        "director": "Martin Scorsese",
+        "actors": ["Robert De Niro", "Sharon Stone", "Joe Pesci", "James Woods"],
+        "plot": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire and a fast-living, luxury-loving woman."
+      },
+      {
+        "id": 17,
+        "title": "Sense and Sensibility",
+        "genre": ["Drama", "Romance"],
+        "release_year": 1995,
+        "rating": 7.7,
+        "director": "Ang Lee",
+        "actors": ["Emma Thompson", "Kate Winslet", "Hugh Grant", "Alan Rickman"],
+        "plot": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the title opposites."
+      },
+      {
+        "id": 18,
+        "title": "Four Rooms",
+        "genre": ["Comedy"],
+        "release_year": 1995,
+        "rating": 6.7,
+        "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino",
+        "actors": ["Tim Roth", "Antonio Banderas", "Jennifer Beals", "Madonna"],
+        "plot": "Four interlocking tales that take place in a fading hotel on New Year's Eve."
+      },
+      {
+        "id": 19,
+        "title": "Ace Ventura: When Nature Calls",
+        "genre": ["Comedy"],
+        "release_year": 1995,
+        "rating": 6.4,
+        "director": "Steve Oedekerk",
+        "actors": ["Jim Carrey", "Ian McNeice", "Simon Callow", "Maynard Eziashi"],
+        "plot": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa."
+      },
+      {
+        "id": 20,
+        "title": "Money Train",
+        "genre": ["Action", "Comedy", "Crime", "Drama", "Thriller"],
+        "release_year": 1995,
+        "rating": 5.6,
+        "director": "Joseph Ruben",
+        "actors": ["Wesley Snipes", "Woody Harrelson", "Jennifer Lopez", "Robert Blake"],
+        "plot": "A vengeful New York City transit cop decides to steal a trainload of subway fares. His foster brother, a fellow cop, tries to protect him."
+      },
+      {
+        "id": 21,
+        "title": "Get Shorty",
+        "genre": ["Comedy", "Crime", "Thriller"],
+        "release_year": 1995,
+        "rating": 6.9,
+        "director": "Barry Sonnenfeld",
+        "actors": ["John Travolta", "Gene Hackman", "Rene Russo", "Danny DeVito"],
+        "plot": "A mobster travels to Hollywood to collect a debt, and discovers that the movie business is much the same as his current job."
+      },
+      {
+        "id": 22,
+        "title": "Copycat",
+        "genre": ["Crime", "Drama", "Horror", "Mystery", "Thriller"],
+        "release_year": 1995,
+        "rating": 6.6,
+        "director": "Jon Amiel",
+        "actors": ["Sigourney Weaver", "Holly Hunter", "Dermot Mulroney", "William McNamara"],
+        "plot": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past."
+      },
+      {
+        "id": 23,
+        "title": "Assassins",
+        "genre": ["Action", "Crime", "Thriller"],
+        "release_year": 1995,
+        "rating": 6.1,
+        "director": "Richard Donner",
+        "actors": ["Sylvester Stallone", "Antonio Banderas", "Julianne Moore"],
+        "plot": "Professional hit-man Robert Rath wants to fulfill a few more contracts before retiring but finds himself in a fierce competition with rival assassin Miguel Bain."
+      },
+      {
+        "id": 24,
+        "title": "Powder",
+        "genre": ["Drama", "Sci-Fi"],
+        "release_year": 1995,
+        "rating": 6.5,
+        "director": "Victor Salva",
+        "actors": ["Mary Steenburgen", "Sean Patrick Flanery", "Lance Henriksen", "Jeff Goldblum"],
+        "plot": "A young man with superhuman abilities faces the difficulties of integrating into society."
+      },
+      {
+        "id": 25,
+        "title": "Leaving Las Vegas",
+        "genre": ["Drama", "Romance"],
+        "release_year": 1995,
+        "rating": 7.5,
+        "director": "Mike Figgis",
+        "actors": ["Nicolas Cage", "Elisabeth Shue", "Julian Sands"],
+        "plot": "An alcoholic writer decides to move to Las Vegas and drink himself to death, forming an uneasy friendship and non-interference pact with a prostitute."
+      },
+      {
+        "id": 26,
+        "title": "Othello",
+        "genre": ["Drama"],
+        "release_year": 1995,
+        "rating": 6.9,
+        "director": "Oliver Parker",
+        "actors": ["Laurence Fishburne", "Kenneth Branagh", "Irène Jacob", "Michael Maloney"],
+        "plot": "The Moorish general Othello is manipulated into believing that his new wife has been carrying on an affair with one of his officers."
+      },
+      {
+        "id": 27,
+        "title": "The Shawshank Redemption",
+        "genre": ["Drama"],
+        "release_year": 1994,
+        "rating": 9.3,
+        "director": "Frank Darabont",
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+      },
+      {
+        "id": 28,
+        "title": "The Godfather",
+        "genre": ["Crime", "Drama"],
+        "release_year": 1972,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola",
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+      },
+      {
+        "id": 29,
+        "title": "Pulp Fiction",
+        "genre": ["Crime", "Drama"],
+        "release_year": 1994,
+        "rating": 8.9,
+        "director": "Quentin Tarantino",
+        "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      },
+      {
+        "id": 30,
+        "title": "Schindler's List",
+        "genre": ["Biography", "Drama", "History"],
+        "release_year": 1993,
+        "rating": 9.0,
+        "director": "Steven Spielberg",
+        "actors": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"],
+        "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+      },
+      {
+        "id": 31,
+        "title": "Fight Club",
+        "genre": ["Drama"],
+        "release_year": 1999,
+        "rating": 8.8,
+        "director": "David Fincher",
+        "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+      },
+      {
+        "id": 32,
+        "title": "The Matrix",
+        "genre": ["Action", "Sci-Fi"],
+        "release_year": 1999,
+        "rating": 8.7,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "plot": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and joins a rebellion to break free."
+      },
+      {
+        "id": 33,
+        "title": "Forrest Gump",
+        "genre": ["Drama", "Romance"],
+        "release_year": 1994,
+        "rating": 8.8,
+        "director": "Robert Zemeckis",
+        "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+      },
+      {
+        "id": 34,
+        "title": "The Silence of the Lambs",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "release_year": 1991,
+        "rating": 8.6,
+        "director": "Jonathan Demme",
+        "actors": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+        "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+      },
+      {
+        "id": 35,
+        "title": "Goodfellas",
+        "genre": ["Biography", "Crime", "Drama"],
+        "release_year": 1990,
+        "rating": 8.7,
+        "director": "Martin Scorsese",
+        "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+        "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito."
+      },
+      {
+        "id": 36,
+        "title": "The Terminator",
+        "genre": ["Action", "Sci-Fi"],
+        "release_year": 1984,
+        "rating": 8.1,
+        "director": "James Cameron",
+        "actors": ["Arnold Schwarzenegger", "Linda Hamilton", "Michael Biehn"],
+        "plot": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman."
+      },
+      {
+        "id": 37,
+        "title": "Back to the Future",
+        "genre": ["Adventure", "Comedy", "Sci-Fi"],
+        "release_year": 1985,
+        "rating": 8.5,
+        "director": "Robert Zemeckis",
+        "actors": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"],
+        "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown."
+      },
+      {
+        "id": 38,
+        "title": "The Dark Knight",
+        "genre": ["Action", "Crime", "Drama"],
+        "release_year": 2008,
+        "rating": 9.0,
+        "director": "Christopher Nolan",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+      },
+      {
+        "id": 39,
+        "title": "Inception",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "release_year": 2010,
+        "rating": 8.8,
+        "director": "Christopher Nolan",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+      },
+      {
+        "id": 40,
+        "title": "The Green Mile",
+        "genre": ["Crime", "Drama", "Fantasy"],
+        "release_year": 1999,
+        "rating": 8.6,
+        "director": "Frank Darabont",
+        "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+
+        {
+          "id": 41,
+          "title": "Saving Private Ryan",
+          "genre": ["Drama", "War"],
+          "release_year": 1998,
+          "rating": 8.6,
+          "director": "Steven Spielberg",
+          "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+          "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+        },
+        {
+          "id": 42,
+          "title": "Gladiator",
+          "genre": ["Action", "Adventure", "Drama"],
+          "release_year": 2000,
+          "rating": 8.5,
+          "director": "Ridley Scott",
+          "actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+          "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+        },
+        {
+          "id": 43,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "genre": ["Action", "Adventure", "Drama", "Fantasy"],
+          "release_year": 2001,
+          "rating": 8.8,
+          "director": "Peter Jackson",
+          "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+          "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+        },
+        {
+          "id": 44,
+          "title": "Memento",
+          "genre": ["Mystery", "Thriller"],
+          "release_year": 2000,
+          "rating": 8.4,
+          "director": "Christopher Nolan",
+          "actors": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
+          "plot": "A man with short-term memory loss attempts to track down his wife's murderer using notes and tattoos."
+        },
+        {
+          "id": 45,
+          "title": "American Beauty",
+          "genre": ["Drama"],
+          "release_year": 1999,
+          "rating": 8.3,
+          "director": "Sam Mendes",
+          "actors": ["Kevin Spacey", "Annette Bening", "Thora Birch"],
+          "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+        },
+        {
+          "id": 46,
+          "title": "The Sixth Sense",
+          "genre": ["Drama", "Mystery", "Thriller"],
+          "release_year": 1999,
+          "rating": 8.1,
+          "director": "M. Night Shyamalan",
+          "actors": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
+          "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist."
+        },
+        {
+          "id": 47,
+          "title": "Se7en",
+          "genre": ["Crime", "Drama", "Mystery", "Thriller"],
+          "release_year": 1995,
+          "rating": 8.6,
+          "director": "David Fincher",
+          "actors": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow"],
+          "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+        },
+        {
+          "id": 48,
+          "title": "The Usual Suspects",
+          "genre": ["Crime", "Mystery", "Thriller"],
+          "release_year": 1995,
+          "rating": 8.5,
+          "director": "Bryan Singer",
+          "actors": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
+          "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+        },
+        {
+          "id": 49,
+          "title": "Braveheart",
+          "genre": ["Biography", "Drama", "History", "War"],
+          "release_year": 1995,
+          "rating": 8.3,
+          "director": "Mel Gibson",
+          "actors": ["Mel Gibson", "Sophie Marceau", "Patrick McGoohan"],
+          "plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+        },
+        {
+          "id": 50,
+          "title": "Fargo",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "release_year": 1996,
+          "rating": 8.1,
+          "director": "Joel Coen, Ethan Coen",
+          "actors": ["Frances McDormand", "William H. Macy", "Steve Buscemi"],
+          "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson."
+        },
+        {
+          "id": 51,
+          "title": "The Lion King",
+          "genre": ["Animation", "Adventure", "Drama"],
+          "release_year": 1994,
+          "rating": 8.5,
+          "director": "Roger Allers, Rob Minkoff",
+          "actors": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
+          "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+        },
+        {
+          "id": 52,
+          "title": "Jurassic Park",
+          "genre": ["Action", "Adventure", "Sci-Fi"],
+          "release_year": 1993,
+          "rating": 8.2,
+          "director": "Steven Spielberg",
+          "actors": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+          "plot": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+        },
+        {
+          "id": 53,
+          "title": "Reservoir Dogs",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "release_year": 1992,
+          "rating": 8.3,
+          "director": "Quentin Tarantino",
+          "actors": ["Harvey Keitel", "Tim Roth", "Michael Madsen"],
+          "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+        },
+        {
+          "id": 54,
+          "title": "Good Will Hunting",
+          "genre": ["Drama", "Romance"],
+          "release_year": 1997,
+          "rating": 8.3,
+          "director": "Gus Van Sant",
+          "actors": ["Robin Williams", "Matt Damon", "Ben Affleck"],
+          "plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life."
+        },
+        {
+          "id": 55,
+          "title": "Titanic",
+          "genre": ["Drama", "Romance"],
+          "release_year": 1997,
+          "rating": 7.9,
+          "director": "James Cameron",
+          "actors": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+          "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+        },
+        {
+          "id": 56,
+          "title": "A Beautiful Mind",
+          "genre": ["Biography", "Drama"],
+          "release_year": 2001,
+          "rating": 8.2,
+          "director": "Ron Howard",
+          "actors": ["Russell Crowe", "Ed Harris", "Jennifer Connelly"],
+          "plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+        },
+        {
+          "id": 57,
+          "title": "The Big Lebowski",
+          "genre": ["Comedy", "Crime"],
+          "release_year": 1998,
+          "rating": 8.1,
+          "director": "Joel Coen, Ethan Coen",
+          "actors": ["Jeff Bridges", "John Goodman", "Julianne Moore"],
+          "plot": "The Dude Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+        },
+        {
+          "id": 58,
+          "title": "Trainspotting",
+          "genre": ["Drama"],
+          "release_year": 1996,
+          "rating": 8.1,
+          "director": "Danny Boyle",
+          "actors": ["Ewan McGregor", "Ewen Bremner", "Jonny Lee Miller"],
+          "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
+        },
+        {
+          "id": 59,
+          "title": "L.A. Confidential",
+          "genre": ["Crime", "Drama", "Mystery"],
+          "release_year": 1997,
+          "rating": 8.2,
+          "director": "Curtis Hanson",
+          "actors": ["Kevin Spacey", "Russell Crowe", "Guy Pearce"],
+          "plot": "As corruption grows in 1950s Los Angeles, three policemen investigate a series of murders with their own brand of justice."
+        },
+        {
+          "id": 60,
+          "title": "The Fifth Element",
+          "genre": ["Action", "Adventure", "Sci-Fi"],
+          "release_year": 1997,
+          "rating": 7.7,
+          "director": "Luc Besson",
+          "actors": ["Bruce Willis", "Milla Jovovich", "Gary Oldman"],
+          "plot": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay."
+        },
+        {
+          "id": 61,
+          "title": "Die Hard",
+          "genre": ["Action", "Thriller"],
+          "release_year": 1988,
+          "rating": 8.2,
+          "director": "John McTiernan",
+          "actors": ["Bruce Willis", "Alan Rickman", "Bonnie Bedelia"],
+          "plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles."
+        },
+        {
+          "id": 62,
+          "title": "American History X",
+          "genre": ["Drama"],
+          "release_year": 1998,
+          "rating": 8.5,
+          "director": "Tony Kaye",
+          "actors": ["Edward Norton", "Edward Furlong", "Beverly D'Angelo"],
+          "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+        },
+        {
+          "id": 63,
+          "title": "The Truman Show",
+          "genre": ["Comedy", "Drama"],
+          "release_year": 1998,
+          "rating": 8.1,
+          "director": "Peter Weir",
+          "actors": ["Jim Carrey", "Laura Linney", "Noah Emmerich"],
+          "plot": "An insurance salesman discovers his whole life is actually a reality TV show."
+        },
+        {
+          "id": 64,
+          "title": "Groundhog Day",
+          "genre": ["Comedy", "Fantasy", "Romance"],
+          "release_year": 1993,
+          "rating": 8.0,
+          "director": "Harold Ramis",
+          "actors": ["Bill Murray", "Andie MacDowell", "Chris Elliott"],
+          "plot": "A weatherman finds himself inexplicably living the same day over and over again."
+        },
+        {
+          "id": 65,
+          "title": "The Princess Bride",
+          "genre": ["Adventure", "Family", "Fantasy"],
+          "release_year": 1987,
+          "rating": 8.1,
+          "director": "Rob Reiner",
+          "actors": ["Cary Elwes", "Mandy Patinkin", "Robin Wright"],
+          "plot": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love."
+        },
+        {
+          "id": 66,
+          "title": "Blade Runner",
+          "genre": ["Action", "Sci-Fi", "Thriller"],
+          "release_year": 1982,
+          "rating": 8.1,
+          "director": "Ridley Scott",
+          "actors": ["Harrison Ford", "Rutger Hauer", "Sean Young"],
+          "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+        },
+        {
+          "id": 67,
+          "title": "The Departed",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "release_year": 2006,
+          "rating": 8.5,
+          "director": "Martin Scorsese",
+          "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+          "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+        },
+        {
+          "id": 68,
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "genre": ["Drama", "Romance", "Sci-Fi"],
+          "release_year": 2004,
+          "rating": 8.3,
+          "director": "Michel Gondry",
+          "actors": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"],
+          "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+        },
+        {
+          "id": 69,
+          "title": "The Pianist",
+          "genre": ["Biography", "Drama", "Music", "War"],
+          "release_year": 2002,
+          "rating": 8.5,
+          "director": "Roman Polanski",
+          "actors": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+          "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+        },
+        {
+          "id": 70,
+          "title": "The Prestige",
+          "genre": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+          "release_year": 2006,
+          "rating": 8.5,
+          "director": "Christopher Nolan",
+          "actors": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
+          "plot": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+        },
+        {
+          "id": 71,
+          "title": "Apocalypse Now",
+          "genre": ["Drama", "Mystery", "War"],
+          "release_year": 1979,
+          "rating": 8.4,
+          "director": "Francis Ford Coppola",
+          "actors": ["Martin Sheen", "Marlon Brando", "Robert Duvall"],
+          "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god."
+        },
+        {
+          "id": 72,
+          "title": "Kill Bill: Vol. 1",
+          "genre": ["Action", "Crime", "Thriller"],
+          "release_year": 2003,
+          "rating": 8.1,
+          "director": "Quentin Tarantino",
+          "actors": ["Uma Thurman", "David Carradine", "Daryl Hannah"],
+          "plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+        },
+        {
+          "id": 73,
+          "title": "No Country for Old Men",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "release_year": 2007,
+          "rating": 8.1,
+          "director": "Joel Coen, Ethan Coen",
+          "actors": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"],
+          "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+        },
+        {
+          "id": 74,
+          "title": "Requiem for a Dream",
+          "genre": ["Drama"],
+          "release_year": 2000,
+          "rating": 8.3,
+          "director": "Darren Aronofsky",
+          "actors": ["Ellen Burstyn", "Jared Leto", "Jennifer Connelly"],
+          "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep."
+        },
+        {
+          "id": 75,
+          "title": "The Grand Budapest Hotel",
+          "genre": ["Adventure", "Comedy", "Crime"],
+          "release_year": 2014,
+          "rating": 8.1,
+          "director": "Wes Anderson",
+          "actors": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
+          "plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+        },
+        {
+          "id": 76,
+          "title": "The Wolf of Wall Street",
+          "genre": ["Biography", "Crime", "Drama"],
+          "release_year": 2013,
+          "rating": 8.2,
+          "director": "Martin Scorsese",
+          "actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+          "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+        },
+        {
+          "id": 77,
+          "title": "The Godfather: Part II",
+          "genre": ["Crime", "Drama"],
+          "release_year": 1974,
+          "rating": 9.0,
+          "director": "Francis Ford Coppola",
+          "actors": ["Al Pacino", "Robert Duvall", "Diane Keaton"],
+          "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+        },
+        {
+          "id": 78,
+          "title": "Interstellar",
+          "genre": ["Adventure", "Drama", "Sci-Fi"],
+          "release_year": 2014,
+          "rating": 8.6,
+          "director": "Christopher Nolan",
+          "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+          "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+        },
+        {
+          "id": 79,
+          "title": "The Departed",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "release_year": 2006,
+          "rating": 8.5,
+          "director": "Martin Scorsese",
+          "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+          "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+        },
+        {
+          "id": 80,
+          "title": "Django Unchained",
+          "genre": ["Drama", "Western"],
+          "release_year": 2012,
+          "rating": 8.4,
+          "director": "Quentin Tarantino",
+          "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+          "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+        },
+        {
+          "id": 81,
+          "title": "The Social Network",
+          "genre": ["Biography", "Drama"],
+          "release_year": 2010,
+          "rating": 7.8,
+          "director": "David Fincher",
+          "actors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+          "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business."
+        },
+        {
+          "id": 82,
+          "title": "Whiplash",
+          "genre": ["Drama", "Music"],
+          "release_year": 2014,
+          "rating": 8.5,
+          "director": "Damien Chazelle",
+          "actors": ["Miles Teller", "J.K. Simmons", "Melissa Benoist"],
+          "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+        },
+        {
+          "id": 83,
+          "title": "The Revenant",
+          "genre": ["Action", "Adventure", "Drama"],
+          "release_year": 2015,
+          "rating": 8.0,
+          "director": "Alejandro González Iñárritu",
+          "actors": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
+          "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+        },
+        {
+          "id": 84,
+          "title": "Black Swan",
+          "genre": ["Drama", "Thriller"],
+          "release_year": 2010,
+          "rating": 8.0,
+          "director": "Darren Aronofsky",
+          "actors": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"],
+          "plot": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake."
+        },
+        {
+          "id": 85,
+          "title": "La La Land",
+          "genre": ["Comedy", "Drama", "Music", "Romance"],
+          "release_year": 2016,
+          "rating": 8.0,
+          "director": "Damien Chazelle",
+          "actors": ["Ryan Gosling", "Emma Stone", "Rosemarie DeWitt"],
+          "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+        },
+        {
+          "id": 86,
+          "title": "Gone Girl",
+          "genre": ["Drama", "Mystery", "Thriller"],
+          "release_year": 2014,
+          "rating": 8.1,
+          "director": "David Fincher",
+          "actors": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"],
+          "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+        },
+        {
+          "id": 87,
+          "title": "Mad Max: Fury Road",
+          "genre": ["Action", "Adventure", "Sci-Fi"],
+          "release_year": 2015,
+          "rating": 8.1,
+          "director": "George Miller",
+          "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+          "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max."
+        },
+        {
+          "id": 88,
+          "title": "The Theory of Everything",
+          "genre": ["Biography", "Drama", "Romance"],
+          "release_year": 2014,
+          "rating": 7.7,
+          "director": "James Marsh",
+          "actors": ["Eddie Redmayne", "Felicity Jones", "Tom Prior"],
+          "plot": "A look at the relationship between the famous physicist Stephen Hawking and his wife."
+        },
+        {
+          "id": 89,
+          "title": "Her",
+          "genre": ["Drama", "Romance", "Sci-Fi"],
+          "release_year": 2013,
+          "rating": 8.0,
+          "director": "Spike Jonze",
+          "actors": ["Joaquin Phoenix", "Amy Adams", "Scarlett Johansson"],
+          "plot": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need."
+        },
+        {
+          "id": 90,
+          "title": "The Imitation Game",
+          "genre": ["Biography", "Drama", "Thriller"],
+          "release_year": 2014,
+          "rating": 8.0,
+          "director": "Morten Tyldum",
+          "actors": ["Benedict Cumberbatch", "Keira Knightley", "Matthew Goode"],
+          "plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians."
+        },
+        {
+          "id": 91,
+          "title": "Gravity",
+          "genre": ["Drama", "Sci-Fi", "Thriller"],
+          "release_year": 2013,
+          "rating": 7.7,
+          "director": "Alfonso Cuarón",
+          "actors": ["Sandra Bullock", "George Clooney", "Ed Harris"],
+          "plot": "Two astronauts work together to survive after an accident leaves them stranded in space."
+        },
+        {
+          "id": 92,
+          "title": "Moonlight",
+          "genre": ["Drama"],
+          "release_year": 2016,
+          "rating": 7.4,
+          "director": "Barry Jenkins",
+          "actors": ["Mahershala Ali", "Naomie Harris", "Trevante Rhodes"],
+          "plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+        },
+        {
+          "id": 93,
+          "title": "Room",
+          "genre": ["Drama", "Thriller"],
+          "release_year": 2015,
+          "rating": 8.1,
+          "director": "Lenny Abrahamson",
+          "actors": ["Brie Larson", "Jacob Tremblay", "Sean Bridgers"],
+          "plot": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time."
+        },
+        {
+          "id": 94,
+          "title": "Arrival",
+          "genre": ["Drama", "Sci-Fi"],
+          "release_year": 2016,
+          "rating": 7.9,
+          "director": "Denis Villeneuve",
+          "actors": ["Amy Adams", "Jeremy Renner", "Forest Whitaker"],
+          "plot": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world."
+        },
+        {
+          "id": 95,
+          "title": "Ex Machina",
+          "genre": ["Drama", "Sci-Fi", "Thriller"],
+          "release_year": 2014,
+          "rating": 7.7,
+          "director": "Alex Garland",
+          "actors": ["Alicia Vikander", "Domhnall Gleeson", "Oscar Isaac"],
+          "plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+        },
+        {
+          "id": 96,
+          "title": "Birdman",
+          "genre": ["Comedy", "Drama"],
+          "release_year": 2014,
+          "rating": 7.7,
+          "director": "Alejandro González Iñárritu",
+          "actors": ["Michael Keaton", "Zach Galifianakis", "Edward Norton"],
+          "plot": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production."
+        },
+        {
+          "id": 97,
+          "title": "12 Years a Slave",
+          "genre": ["Biography", "Drama", "History"],
+          "release_year": 2013,
+          "rating": 8.1,
+          "director": "Steve McQueen",
+          "actors": ["Chiwetel Ejiofor", "Michael Kenneth Williams", "Michael Fassbender"],
+          "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+        },
+        {
+          "id": 98,
+          "title": "Dallas Buyers Club",
+          "genre": ["Biography", "Drama"],
+          "release_year": 2013,
+          "rating": 8.0,
+          "director": "Jean-Marc Vallée",
+          "actors": ["Matthew McConaughey", "Jared Leto", "Jennifer Garner"],
+          "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease."
+        },
+        {
+          "id": 99,
+          "title": "Spotlight",
+          "genre": ["Biography", "Crime", "Drama"],
+          "release_year": 2015,
+          "rating": 8.1,
+          "director": "Tom McCarthy",
+          "actors": ["Mark Ruffalo", "Michael Keaton", "Rachel McAdams"],
+          "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese."
+        },
+        {
+          "id": 100,
+          "title": "The Shape of Water",
+          "genre": ["Adventure", "Drama", "Fantasy"],
+          "release_year": 2017,
+          "rating": 7.3,
+          "director": "Guillermo del Toro",
+          "actors": ["Sally Hawkins", "Octavia Spencer", "Michael Shannon"],
+          "plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+        }
+      ]
+    }
+  

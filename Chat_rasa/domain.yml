@@ -1,0 +1,118 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - film_oner
+  - specify_genre
+  - specify_year
+  - specify_rating
+  - specify_actor
+  - thank_you
+  - help
+  - mood_annoyed
+  - favorite_actor
+
+slots:
+  genre:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+  year:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+  rating:
+    type: float
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+  actor:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+responses:
+  utter_selamla:
+    - text: "Merhaba! Sana nasıl yardımcı olabilirim?"
+
+  utter_hoscakal:
+    - text: "Hoşça kal, görüşmek üzere!"
+
+  utter_how_are_you:
+    - text: "Bugün nasılsın?"
+
+  utter_happy_response:
+    - text: "Harika! Sana uygun birkaç film önerisi yapabilirim."
+
+  utter_sad_response:
+    - text: "Üzgün olduğunu duymak beni üzüyor. Belki bir film izlemek keyfini yerine getirebilir!"
+
+  utter_tur_sor:
+    - text: "Hangi türde bir film izlemek istersin? (Dram, Aksiyon, Komedi, Bilim Kurgu, Gerilim vb.)"
+
+  utter_bot_confirmation:
+    - text: "Evet, ben bir botum ve Rasa tarafından geliştirildim!"
+
+  utter_film_oner:
+    - text: "İzlemeni önerdiğim filmlerden bazıları şunlar:"
+    - text: "1. The Shawshank Redemption - Dram, suç. (IMDB Puanı: 9.3)"
+    - text: "2. Inception - Aksiyon, bilim kurgu. (IMDB Puanı: 8.8)"
+    - text: "3. Parasite - Gerilim, dram. (IMDB Puanı: 8.6)"
+    - text: "4. The Dark Knight - Aksiyon, suç. (IMDB Puanı: 9.0)"
+    - text: "5. Interstellar - Bilim kurgu, dram. (IMDB Puanı: 8.6)"
+
+  utter_genre_suggestion:
+    - text: "Tür tercihinize göre önerdiğim filmler:"
+    - text: "1. {film_1} - Tür: {genre} (IMDB Puanı: {rating_1})"
+    - text: "2. {film_2} - Tür: {genre} (IMDB Puanı: {rating_2})"
+    - text: "3. {film_3} - Tür: {genre} (IMDB Puanı: {rating_3})"
+
+  utter_year_suggestion:
+    - text: "Belirttiğin yıllara göre önerdiğim filmler:"
+    - text: "1. {film_1} - Yıl: {year} (IMDB Puanı: {rating_1})"
+    - text: "2. {film_2} - Yıl: {year} (IMDB Puanı: {rating_2})"
+    - text: "3. {film_3} - Yıl: {year} (IMDB Puanı: {rating_3})"
+
+  utter_rating_suggestion:
+    - text: "Belirttiğin puanlara göre önerdiğim filmler:"
+    - text: "1. {film_1} - IMDB Puanı: {rating_1}"
+    - text: "2. {film_2} - IMDB Puanı: {rating_2}"
+    - text: "3. {film_3} - IMDB Puanı: {rating_3}"
+
+  utter_actor_suggestion:
+    - text: "Favori oyuncuna göre önerdiğim filmler:"
+    - text: "1. {actor}'ın oynadığı {film_1} (IMDB Puanı: {rating_1})"
+    - text: "2. {actor}'ın oynadığı {film_2} (IMDB Puanı: {rating_2})"
+    - text: "3. {actor}'ın oynadığı {film_3} (IMDB Puanı: {rating_3})"
+
+  utter_youre_welcome:
+    - text: "Rica ederim! Başka nasıl yardımcı olabilirim?"
+
+  utter_help:
+    - text: "Tabii ki, sana nasıl yardımcı olabilirim?"
+
+  utter_annoyed_response:
+    - text: "Sinirli olduğunu duymak beni üzdü. Belki sakinleşmek için bir film izlemek istersin?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+actions:
+  - action_recommend_movie
+  - action_set_genre
+  - action_recommend_by_actor
+  - action_recommend_by_rating
+  - action_recommend_by_year
