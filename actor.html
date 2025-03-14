@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actors - Movie Hub</title>
+    <link rel="stylesheet" href="actor.css">
+</head>
+<body>
+    <header>
+        <div class="logo">SINESTREET</div>
+        <div class="search-container">
+            <input type="text" class="search-bar" placeholder="Search for actors, movies...">
+        </div>
+        <div class="auth-buttons">
+            <a href="login.html" class="button" id="login-btn">Login</a>
+            <a href="signup.html" class="button" id="signup-btn">Sign Up</a>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="film.html">Movies</a></li>
+            <li><a href="actor.html">Actors</a></li>
+            <li><a href="series.html">Series</a></li>
+            <li><a href="album.html">My Movies</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="section">
+            <h1>Popular Actors</h1>
+            <div class="grid" id="actorGrid">
+                <!-- Actors will be dynamically inserted here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 SineStreet. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", async () => {
+            const actorGrid = document.getElementById("actorGrid");
+
+            try {
+                const response = await fetch('https://api.themoviedb.org/3/person/popular?api_key=38212142fbabe3881e01dcbb9527c88b');
+                const data = await response.json();
+
+                data.results.forEach(actor => {
+                    const actorCard = document.createElement('div');
+                    actorCard.className = 'actor-card';
+
+                    const actorMovies = actor.known_for.map(movie => movie.title).join(', ');
+
+                    actorCard.innerHTML = `
+                        <img src="https://image.tmdb.org/t/p/w500${actor.profile_path}" alt="${actor.name}" class="actor-image">
+                        <h3>${actor.name}</h3>
+                        <p>Known for: ${actorMovies}</p>
+                    `;
+                    actorGrid.appendChild(actorCard);
+                });
+
+            } catch (error) {
+                console.error("Error fetching actors:", error);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Arka plan rengini biraz açık yaptım */
+    overflow-x: hidden; /* Sayfanın sağa ve sola kaymasını engelliyorum */
+}
+
+header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: flex-end; /* Tüm öğeleri sağa hizalamak için */
+    align-items: center;
+    padding: 30px 40px; /* Daha fazla padding ekleyerek başlık kısmını büyüttüm */
+    position: relative;
+}
+
+header .logo {
+    font-size: 32px; /* Logonun font boyutunu büyüttüm */
+    font-weight: bold;
+    margin-right: 30px; /* Logoyu sağa kaydırmak için */
+}
+
+header .search-container {
+    flex: 2; /* Arama çubuğuna ortalanmış alan bırak */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Vertikal ortalama */
+    margin-right: 30px; /* Arama çubuğuna sağdan boşluk eklemek için */
+}
+
+.search-bar {
+    width: 70%; /* Arama çubuğunun genişliği biraz daha büyütüldü */
+    padding: 12px;
+    border-radius: 15px; /* Arama çubuğunun kenarlarını yuvarladım */
+    border: none;
+}
+
+.auth-buttons {
+    display: flex;
+    position: absolute;
+    right: 40px; /* Sağda hizalayın */
+}
+
+.auth-buttons a {
+    margin-left: 15px;
+    padding: 12px 16px; /* Butonları büyüttüm */
+    font-size: 16px; /* Butonların font boyutunu büyüttüm */
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    border-radius: 6px;
+}
+
+.auth-buttons a:hover {
+    background-color: #0056b3;
+}
+
+nav {
+    background-color: #444;
+    padding: 15px 0; /* Padding değerini büyüttüm */
+    display: flex;
+    justify-content: center; /* Sekmeleri ortala */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 20px; /* Sekmeler arasındaki mesafeyi artırdım */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px; /* Sekme metinlerinin font boyutunu büyüttüm */
+}
+
+.section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff; /* Arka plan rengini beyaz yaptım */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 30px; /* Başlık font boyutunu büyüttüm */
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Her satırda 3 kişi olacak şekilde ayarlandı */
+    gap: 40px; /* Aktörler arasındaki mesafe daha da artırıldı */
+    margin-top: 20px;
+    padding-bottom: 30px; /* Sayfayı aşağıya doğru uzattım */
+}
+
+.actor-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.actor-card img {
+    width: 100%; /* Resmin genişliği tamamen kapsayacak şekilde ayarlandı */
+    height: 300px; /* Yüksekliği eski boyutunda */
+    object-fit: cover; /* Fotoğrafın düzgün görünmesi için */
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 15px; /* Resim ile metin arasına mesafe ekledim */
+}
+
+.actor-card h3 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.actor-card p {
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px; /* Footer ile içerik arasına mesafe ekledim */
+}
