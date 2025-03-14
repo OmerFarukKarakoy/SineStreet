@@ -20,8 +20,7 @@ function checkUser() {
         .then(data => {
             if(data != null) {
                 console.log("Response JSON data:", data); 
-                //datanın alanlarını kontrol et. eğer data.email ve data.password, ekrandan girilen değerlerle uyuşuyor ise içeriye yönlendirme yap.
-                //window.location.href = "dashboard.html"
+
             }
         })
         .catch(error => {
