@@ -6,14 +6,23 @@ SineStreet, yapay zeka destekli, film severler için geliştirilmiş bir **film 
 
 ## 📸 Demo Görselleri
 
-### 🔥 Ana Sayfa ve Chatbot Entegrasyonu
-![Index](![index](https://github.com/user-attachments/assets/245ce796-79ac-44e6-a4f5-04a4ce0c1b94))
+### 🔥 Ana Sayfa ve Giriş Yap Sayfası
+![index](https://github.com/user-attachments/assets/7b9731db-defe-4769-adff-d5d0e1274a3c)
+![login](https://github.com/user-attachments/assets/ad7261b4-7a48-4c9a-b981-865c5faf703e)
 
-### 🎥 Film Detayı ve Kişisel Film Listesi
+
+### 🎥 Film Detayı ve Chatbot Entegrasyonu
 ![Most Voted](![movies](https://github.com/user-attachments/assets/ce4cd59d-ecfb-4fc6-a47d-f0c8e3c62c59))
 ![Most Voted](![movies2](https://github.com/user-attachments/assets/c4d8863a-4db1-4de2-af08-fac1a33f3988))
+
+### 🎥 Popüler Diziler 
 ![Series](![series](https://github.com/user-attachments/assets/c3b84e4a-f5ab-4e49-97a0-4420d819fcab))
-![Login](![login](https://github.com/user-attachments/assets/63acbcec-08c6-49f0-9325-5cd1cfd61eb3))
+
+### Ünlü Oyuncular ve Oynadıkları Filmler
+![actors](https://github.com/user-attachments/assets/da25c955-9e40-44d1-a3b6-cd7941c76cdc)
+![actors2](https://github.com/user-attachments/assets/8756f8b1-3898-4fdd-9214-cdcaf95d3cf6)
+
+
 
 > Görsellerde chatbot'un kullanıcı ruh haline göre film önermesi ve listeleme özellikleri gösterilmektedir.
 
