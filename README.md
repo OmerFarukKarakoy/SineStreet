@@ -5,7 +5,7 @@ SineStreet, yapay zekâ destekli bir film platformudur. RASA tabanlı chatbot si
 
 ---
 
-## 📸 Demo Görselleri
+## 📸 SineStreet Web Arayüzü Görselleri
 
 ### 🖥️ Anasayfa Önizlemesi ve Giriş Ekranı
 ![index](https://github.com/user-attachments/assets/7b9731db-defe-4769-adff-d5d0e1274a3c)
