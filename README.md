@@ -58,7 +58,7 @@ rasa shell
 python app.py
 
 ---
-
+```
 ## 👨‍💻 Geliştirici
 
 **Ömer Faruk Karakoy**    
