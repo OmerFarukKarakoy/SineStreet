@@ -1,6 +1,7 @@
 # 🎬 SineStreet - AI-Powered Movie Recommendation Web App
 
-SineStreet, yapay zeka destekli, film severler için geliştirilmiş bir **film öneri platformudur**. RASA tabanlı bir chatbot entegresi ile kullanıcıya özel öneriler sunar. Aynı zamanda kullanıcıların film araması, puanlaması, listelemesi ve film geçmişini yönetmesini sağlar.
+SineStreet, yapay zekâ destekli bir film platformudur. RASA tabanlı chatbot sistemi sayesinde kullanıcılarla doğal diyaloglar kurarak kişiye özel film önerilerinde bulunur. Bunun yanı sıra kullanıcılar izledikleri filmleri, dizileri ve favorilerini kişisel albümlerine ekleyebilir, film detaylarını görüntüleyebilir ve izleme geçmişlerini yönetebilirler.
+
 
 ---
 
@@ -12,11 +13,13 @@ SineStreet, yapay zeka destekli, film severler için geliştirilmiş bir **film 
 
 
 ### 🎥 Film Detayı ve Chatbot Entegrasyonu
-![Most Voted](![movies](https://github.com/user-attachments/assets/ce4cd59d-ecfb-4fc6-a47d-f0c8e3c62c59))
-![Most Voted](![movies2](https://github.com/user-attachments/assets/c4d8863a-4db1-4de2-af08-fac1a33f3988))
+![movies](https://github.com/user-attachments/assets/e34afc59-f0e9-429f-87b2-ad87c59a288a)
+![movies2](https://github.com/user-attachments/assets/feb577b5-425d-490d-a6be-9f906f085ea6)
+
 
 ### 🎥 Popüler Diziler 
-![Series](![series](https://github.com/user-attachments/assets/c3b84e4a-f5ab-4e49-97a0-4420d819fcab))
+![series](https://github.com/user-attachments/assets/3ef09be6-e4f0-45cb-a56b-a3a573d12021)
+
 
 ### Ünlü Oyuncular ve Oynadıkları Filmler
 ![actors](https://github.com/user-attachments/assets/da25c955-9e40-44d1-a3b6-cd7941c76cdc)
