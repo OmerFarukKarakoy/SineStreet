@@ -7,7 +7,7 @@ SineStreet, yapay zekâ destekli bir film platformudur. RASA tabanlı chatbot si
 
 ## 📸 Demo Görselleri
 
-### 🔥 Ana Sayfa ve Giriş Yap Sayfası
+### 🖥️ Anasayfa Önizlemesi ve Giriş Ekranı
 ![index](https://github.com/user-attachments/assets/7b9731db-defe-4769-adff-d5d0e1274a3c)
 ![login](https://github.com/user-attachments/assets/ad7261b4-7a48-4c9a-b981-865c5faf703e)
 
@@ -21,7 +21,7 @@ SineStreet, yapay zekâ destekli bir film platformudur. RASA tabanlı chatbot si
 ![series](https://github.com/user-attachments/assets/3ef09be6-e4f0-45cb-a56b-a3a573d12021)
 
 
-### Ünlü Oyuncular ve Oynadıkları Filmler
+### 🎭 Ünlü Oyuncular ve Oynadıkları Filmler
 ![actors](https://github.com/user-attachments/assets/da25c955-9e40-44d1-a3b6-cd7941c76cdc)
 ![actors2](https://github.com/user-attachments/assets/8756f8b1-3898-4fdd-9214-cdcaf95d3cf6)
 
