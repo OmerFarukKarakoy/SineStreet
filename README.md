@@ -47,8 +47,8 @@ SineStreet, yapay zekâ destekli bir film platformudur. RASA tabanlı chatbot si
 - 💬 **RASA** — Chatbot altyapısı
 - 🌐 **HTML/CSS/JS** — Frontend tasarımı
 - 🐍 **Python** — Backend & Chatbot entegrasyonu
-- 📁 **Flask** (veya benzeri framework, varsa belirt)
-- 💾 **LocalStorage / DB** — Kişisel film verileri yönetimi (varsa)
+- 📁 **Flask**
+- 💾 **LocalStorage / DB** — Kişisel film verileri yönetimi
 
 ---
 
