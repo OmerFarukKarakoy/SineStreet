@@ -73,7 +73,7 @@ python app.py
 ```
 ## 👨‍💻 Geliştirici
 
-**Ömer Faruk Karakoy**    
+**Ömer Faruk Karaköy**    
 🌐 GitHub: [github.com/OmerFarukKarakoy](https://github.com/OmerFarukKarakoy)  
 📧 Mail: omerfarukkarakoy@gmail.com
 
